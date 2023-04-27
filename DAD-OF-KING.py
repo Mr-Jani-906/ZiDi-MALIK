@@ -1,2 +1,2 @@
-From Paid import Mxs_Main
-Mxs_Main()
+From Paid import mxs_Main
+mxs_Main()
