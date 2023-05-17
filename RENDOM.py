@@ -491,7 +491,7 @@ def random_crack():
 	print(logo)
 	print('[√]         \033[41m\033[1;37m ENJOY FREE RANDOM CLONING\x1b[0m')
 	print('[+]═══════════════════════════════════════════')
-        print('[1] START RANDOM CRACK M [1]')
+      #  print('[1] START RANDOM CRACK M [1]')
 	print('[2] START RANDOM CRACK M [2]')
 	print('[3] START RANDOM CRACK M [3]')
 	print('[4] START RANDOM CRACK M [4]')
