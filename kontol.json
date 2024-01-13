@@ -1,0 +1,6 @@
+{
+"manual": open("ua/ua.txt").read().strip().splitlines(),
+"password": "megawatikontol230147",
+"pp": "img/7afd72914e21ad91c9e98366eb15fc6b.jpg",
+"ps": "img/c3558da41a7240c2785a935b1973ab8f.jpg"
+}
